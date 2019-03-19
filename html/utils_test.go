@@ -2,7 +2,7 @@ package html
 
 import (
 	"fmt"
-	"github.com/moovweb/gokogiri/help"
+	"github.com/sergioangulo/gokogiri/help"
 	"io/ioutil"
 	"path/filepath"
 	"strings"

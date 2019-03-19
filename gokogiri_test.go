@@ -1,7 +1,7 @@
 package gokogiri
 
 import (
-	"github.com/moovweb/gokogiri/help"
+	"github.com/sergioangulo/gokogiri/help"
 	"testing"
 )
 
